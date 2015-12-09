@@ -8,7 +8,6 @@ As you saw last time, we need to import the packages in order to use them
 
 ```python
 import numpy as np
-
 ```
 
 One of the most important functions of numpy is the array function. The most simple array has one dimension and can be created from a list
@@ -338,7 +337,61 @@ print(arr5)
       1.34513854  1.88949846]
 
 
+## Broadcasting
+
 
 ```python
-
+arr6 = np.random.randn(4,3)
 ```
+
+
+```python
+arr6
+```
+
+
+
+
+    array([[ 0.56801206, -1.45446944,  0.34754167],
+           [-0.60611374,  0.25154329, -0.27219432],
+           [ 2.16397494,  2.084998  , -1.25341479],
+           [-1.38168469, -0.16785704, -1.58701196]])
+
+
+
+
+```python
+arr6.mean(0)
+```
+
+
+
+
+    array([ 0.18604714,  0.1785537 , -0.69126985])
+
+
+
+
+```python
+demeaned = arr6 - arr6.mean(0)
+```
+
+
+```python
+demeaned
+```
+
+
+
+
+    array([[ 0.38196492, -1.63302315,  1.03881152],
+           [-0.79216088,  0.07298959,  0.41907553],
+           [ 1.97792779,  1.9064443 , -0.56214495],
+           [-1.56773183, -0.34641075, -0.89574211]])
+
+
+
+## Challenge
+
+1. Calculate the dot product between two matrices
+2. Create an three dimensional array with random numbers. Calculate the sum across the third dimension and then substract from the original array.
