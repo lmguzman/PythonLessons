@@ -1,0 +1,427 @@
+"country","Description","country_val"
+"Afghanistan","life",37.4788333333333
+"Albania","life",68.4329166666667
+"Algeria","life",59.0301666666667
+"Angola","life",37.8835
+"Argentina","life",69.0604166666667
+"Australia","life",74.6629166666667
+"Austria","life",73.10325
+"Bahrain","life",65.6056666666667
+"Bangladesh","life",49.8340833333333
+"Belgium","life",73.64175
+"Benin","life",48.7799166666667
+"Bolivia","life",52.5045833333333
+"Bosnia and Herzegovina","life",67.7078333333333
+"Botswana","life",54.5975
+"Brazil","life",62.2395
+"Bulgaria","life",69.74375
+"Burkina Faso","life",44.694
+"Burundi","life",44.8173333333333
+"Cambodia","life",47.90275
+"Cameroon","life",48.1285
+"Canada","life",74.90275
+"Central African Republic","life",43.8669166666667
+"Chad","life",46.7735833333333
+"Chile","life",67.4309166666667
+"China","life",61.78514
+"Colombia","life",63.89775
+"Comoros","life",52.38175
+"Congo, Dem. Rep.","life",44.54375
+"Congo, Rep.","life",52.5019166666667
+"Costa Rica","life",70.1814166666667
+"Cote d'Ivoire","life",48.4361666666667
+"Croatia","life",70.0559166666667
+"Cuba","life",71.0450833333333
+"Czech Republic","life",71.5105
+"Denmark","life",74.3701666666667
+"Djibouti","life",46.38075
+"Dominican Republic","life",61.5545
+"Ecuador","life",62.8168333333333
+"Egypt","life",56.243
+"El Salvador","life",59.6333333333333
+"Equatorial Guinea","life",42.96
+"Eritrea","life",45.99925
+"Ethiopia","life",44.47575
+"Finland","life",72.9919166666667
+"France","life",74.3489166666667
+"Gabon","life",51.2205
+"Gambia","life",44.4005833333333
+"Germany","life",73.4444166666667
+"Ghana","life",52.3406666666667
+"Greece","life",73.7331666666667
+"Guatemala","life",56.7294166666667
+"Guinea","life",43.2398333333333
+"Guinea-Bissau","life",39.21025
+"Haiti","life",50.16525
+"Honduras","life",57.9208333333333
+"Hong Kong, China","life",73.4928333333333
+"Hungary","life",69.3931666666667
+"Iceland","life",76.5114166666667
+"India","life",53.1660833333333
+"Indonesia","life",54.33575
+"Iran","life",58.6365833333333
+"Iraq","life",56.58175
+"Ireland","life",73.01725
+"Israel","life",73.6458333333333
+"Italy","life",74.0138333333333
+"Jamaica","life",68.7493333333333
+"Japan","life",74.8269166666667
+"Jordan","life",59.7864166666667
+"Kenya","life",52.681
+"Korea, Dem. Rep.","life",63.6073333333333
+"Korea, Rep.","life",65.001
+"Kuwait","life",68.9223333333333
+"Lebanon","life",65.8656666666667
+"Lesotho","life",50.0070833333333
+"Liberia","life",42.47625
+"Libya","life",59.3041666666667
+"Madagascar","life",47.7705833333333
+"Malawi","life",43.3515833333333
+"Malaysia","life",64.2795833333333
+"Mali","life",43.4135
+"Mauritania","life",52.3020833333333
+"Mauritius","life",64.95325
+"Mexico","life",65.4088333333333
+"Mongolia","life",55.8903333333333
+"Montenegro","life",70.2991666666667
+"Morocco","life",57.6088333333333
+"Mozambique","life",40.3795
+"Myanmar","life",53.3216666666667
+"Namibia","life",53.4913333333333
+"Nepal","life",48.9863333333333
+"Netherlands","life",75.6485
+"New Zealand","life",73.9895
+"Nicaragua","life",58.3494166666667
+"Niger","life",44.5586666666667
+"Nigeria","life",43.5813333333333
+"Norway","life",75.843
+"Oman","life",58.4426666666667
+"Pakistan","life",54.88225
+"Panama","life",67.80175
+"Paraguay","life",66.8090833333333
+"Peru","life",58.8593333333333
+"Philippines","life",60.96725
+"Poland","life",70.1769166666667
+"Portugal","life",70.4198333333333
+"Puerto Rico","life",72.7393333333333
+"Reunion","life",66.64425
+"Romania","life",68.2906666666667
+"Rwanda","life",41.4815833333333
+"Sao Tome and Principe","life",57.8963333333333
+"Saudi Arabia","life",58.67875
+"Senegal","life",50.6259166666667
+"Serbia","life",68.551
+"Sierra Leone","life",36.7691666666667
+"Singapore","life",71.22025
+"Slovak Republic","life",70.6960833333333
+"Slovenia","life",71.60075
+"Somalia","life",40.9886666666667
+"South Africa","life",53.9931666666667
+"Spain","life",74.2034166666667
+"Sri Lanka","life",66.5260833333333
+"Sudan","life",48.4005
+"Swaziland","life",49.0024166666667
+"Sweden","life",76.177
+"Switzerland","life",75.5650833333333
+"Syria","life",61.3461666666667
+"Taiwan","life",70.3366666666667
+"Tanzania","life",47.9123333333333
+"Thailand","life",62.20025
+"Togo","life",51.49875
+"Trinidad and Tobago","life",66.828
+"Tunisia","life",60.721
+"Turkey","life",59.6964166666667
+"Uganda","life",47.6188333333333
+"United Kingdom","life",73.9225833333333
+"United States","life",73.4785
+"Uruguay","life",70.7815833333333
+"Venezuela","life",66.5806666666667
+"Vietnam","life",57.4795
+"West Bank and Gaza","life",60.3286666666667
+"Yemen, Rep.","life",46.7804166666667
+"Zambia","life",45.9963333333333
+"Zimbabwe","life",52.6631666666667
+"Afghanistan","pop",15823715.4166667
+"Albania","pop",2580249.16666667
+"Algeria","pop",19875406.1666667
+"Angola","pop",7309390.08333333
+"Argentina","pop",28602239.9166667
+"Australia","pop",14649312.5
+"Austria","pop",7583298.41666667
+"Bahrain","pop",373913.166666667
+"Bangladesh","pop",90755395.3333333
+"Belgium","pop",9725118.66666667
+"Benin","pop",4017496.66666667
+"Bolivia","pop",5610395.16666667
+"Bosnia and Herzegovina","pop",3816524.75
+"Botswana","pop",971186.166666667
+"Brazil","pop",122312126.666667
+"Bulgaria","pop",8182985.33333333
+"Burkina Faso","pop",7548677.25
+"Burundi","pop",4651608.33333333
+"Cambodia","pop",8510430.66666667
+"Cameroon","pop",9816648.41666667
+"Canada","pop",24462967.3333333
+"Central African Republic","pop",2560963
+"Chad","pop",5329256.33333333
+"Chile","pop",11205725.3333333
+"China","pop",958160051.916667
+"Colombia","pop",27256099.5833333
+"Comoros","pop",361683.916666667
+"Congo, Dem. Rep.","pop",32681655.25
+"Congo, Rep.","pop",1923209.08333333
+"Costa Rica","pop",2400007.75
+"Cote d'Ivoire","pop",9153109.5
+"Croatia","pop",4289916.25
+"Cuba","pop",9232575.5
+"Czech Republic","pop",9986262.83333333
+"Denmark","pop",4994187.33333333
+"Djibouti","pop",260243.916666667
+"Dominican Republic","pop",5735697.41666667
+"Ecuador","pop",8212243.41666667
+"Egypt","pop",46522774.25
+"El Salvador","pop",4343441.41666667
+"Equatorial Guinea","pop",327551
+"Eritrea","pop",2820216.83333333
+"Ethiopia","pop",41632518.75
+"Finland","pop",4771321
+"France","pop",52952564.3333333
+"Gabon","pop",795415.416666667
+"Gambia","pop",793138.583333333
+"Germany","pop",77547043.3333333
+"Ghana","pop",12616626.4166667
+"Greece","pop",9424181.08333333
+"Guatemala","pop",6858694.75
+"Guinea","pop",5360550.66666667
+"Guinea-Bissau","pop",882008.416666667
+"Haiti","pop",5401633.75
+"Honduras","pop",3920593.41666667
+"Hong Kong, China","pop",4792259.33333333
+"Hungary","pop",10217645.6666667
+"Iceland","pop",226978.083333333
+"India","pop",701130739.833333
+"Indonesia","pop",148322833.333333
+"Iran","pop",42301706.8333333
+"Iraq","pop",14187495.1666667
+"Ireland","pop",3340825.91666667
+"Israel","pop",3845610.75
+"Italy","pop",54536958
+"Jamaica","pop",2135122.83333333
+"Japan","pop",111758808
+"Jordan","pop",2667972.75
+"Kenya","pop",18206250.1666667
+"Korea, Dem. Rep.","pop",16453881.25
+"Korea, Rep.","pop",36499386.3333333
+"Kuwait","pop",1206495.58333333
+"Lebanon","pop",2781846.41666667
+"Lesotho","pop",1389696.41666667
+"Liberia","pop",1813857.16666667
+"Libya","pop",3166803.58333333
+"Madagascar","pop",9902402.16666667
+"Malawi","pop",7016377.41666667
+"Malaysia","pop",14574055.3333333
+"Mali","pop",7112340.08333333
+"Mauritania","pop",1782723.83333333
+"Mauritius","pop",926072.25
+"Mexico","pop",68414297.4166667
+"Mongolia","pop",1734850.66666667
+"Montenegro","pop",564269.666666667
+"Morocco","pop",20555741.9166667
+"Mozambique","pop",12046695.3333333
+"Myanmar","pop",33432292.5
+"Namibia","pop",1157849.75
+"Nepal","pop",16551744.5833333
+"Netherlands","pop",13786797.9166667
+"New Zealand","pop",3100032.16666667
+"Nicaragua","pop",3040975.16666667
+"Niger","pop",6857373.83333333
+"Nigeria","pop",73708017.8333333
+"Norway","pop",4031441.08333333
+"Oman","pop",1438205.33333333
+"Pakistan","pop",93683385.75
+"Panama","pop",1985290.25
+"Paraguay","pop",3555485.91666667
+"Peru","pop",17559093
+"Philippines","pop",52636628.5833333
+"Poland","pop",34323304.4166667
+"Portugal","pop",9586273.91666667
+"Puerto Rico","pop",3115178.25
+"Reunion","pop",518497.75
+"Romania","pop",20819090.1666667
+"Rwanda","pop",5298435.66666667
+"Sao Tome and Principe","pop",105977.833333333
+"Saudi Arabia","pop",12478368
+"Senegal","pop",6446305.41666667
+"Serbia","pop",8783886.75
+"Sierra Leone","pop",3605424.91666667
+"Singapore","pop",2667817.41666667
+"Slovak Republic","pop",4774507.08333333
+"Slovenia","pop",1794381.41666667
+"Somalia","pop",5197197.83333333
+"South Africa","pop",29928352.1666667
+"Spain","pop",35851798.4166667
+"Sri Lanka","pop",14545831.75
+"Sudan","pop",21560331.4166667
+"Swaziland","pop",679052
+"Sweden","pop",8220028.91666667
+"Switzerland","pop",6384293.16666667
+"Syria","pop",9865378.75
+"Taiwan","pop",16874723.9166667
+"Tanzania","pop",20499497.6666667
+"Thailand","pop",44961631.1666667
+"Togo","pop",2895964
+"Trinidad and Tobago","pop",1006469.66666667
+"Tunisia","pop",6686770.25
+"Turkey","pop",45909008.25
+"Uganda","pop",14361049.4166667
+"United Kingdom","pop",56087800.6666667
+"United States","pop",228211232.5
+"Uruguay","pop",2912487.16666667
+"Venezuela","pop",15129801.3333333
+"Vietnam","pop",54568570.9166667
+"West Bank and Gaza","pop",1848606.5
+"Yemen, Rep.","pop",10843191.8333333
+"Zambia","pop",6353804.83333333
+"Zimbabwe","pop",7641966.08333333
+"Afghanistan","gdp",802.674598425
+"Albania","gdp",3255.36663266667
+"Algeria","gdp",4426.02597316667
+"Angola","gdp",3607.10052883333
+"Argentina","gdp",8955.55378266667
+"Australia","gdp",19980.5956341667
+"Austria","gdp",20411.9162793333
+"Bahrain","gdp",18077.6639454167
+"Bangladesh","gdp",817.558818216667
+"Belgium","gdp",19900.7580716667
+"Benin","gdp",1155.39510738333
+"Bolivia","gdp",2961.22875366667
+"Bosnia and Herzegovina","gdp",3484.7790694
+"Botswana","gdp",5031.50355716667
+"Brazil","gdp",5829.31665275
+"Bulgaria","gdp",6384.055172
+"Burkina Faso","gdp",843.990664716667
+"Burundi","gdp",471.6629897
+"Cambodia","gdp",675.367824258333
+"Cameroon","gdp",1774.63422233333
+"Canada","gdp",22410.74634
+"Central African Republic","gdp",958.784696983333
+"Chad","gdp",1165.45367421667
+"Chile","gdp",6703.28914708333
+"China","gdp",1488.30769400833
+"Colombia","gdp",4195.34291991667
+"Comoros","gdp",1314.38033868333
+"Congo, Dem. Rep.","gdp",648.34264595
+"Congo, Rep.","gdp",3312.78821516667
+"Costa Rica","gdp",5448.61077941667
+"Cote d'Ivoire","gdp",1912.82538225
+"Croatia","gdp",9331.71234591667
+"Cuba","gdp",6283.25867833333
+"Czech Republic","gdp",13920.011379
+"Denmark","gdp",21671.8248879167
+"Djibouti","gdp",2697.83316216667
+"Dominican Republic","gdp",2844.85640491667
+"Ecuador","gdp",5733.62476675
+"Egypt","gdp",3074.03073141667
+"El Salvador","gdp",4431.84659733333
+"Equatorial Guinea","gdp",2469.16668093333
+"Eritrea","gdp",541.002506666667
+"Ethiopia","gdp",509.1151555
+"Finland","gdp",17473.7226673333
+"France","gdp",18833.5703270833
+"Gabon","gdp",11529.8654744167
+"Gambia","gdp",680.132585558333
+"Germany","gdp",20556.68443275
+"Ghana","gdp",1044.58204614167
+"Greece","gdp",13969.0368329167
+"Guatemala","gdp",4015.40277141667
+"Guinea","gdp",776.067304675
+"Guinea-Bissau","gdp",652.1572081
+"Haiti","gdp",1620.7392895
+"Honduras","gdp",2834.41308316667
+"Hong Kong, China","gdp",16228.70086475
+"Hungary","gdp",10888.1756536667
+"Iceland","gdp",20531.4222725
+"India","gdp",1057.29630685
+"Indonesia","gdp",1741.36535954167
+"Iran","gdp",7376.5829055
+"Iraq","gdp",7811.80911666667
+"Ireland","gdp",15758.60623775
+"Israel","gdp",14160.9364340833
+"Italy","gdp",16245.2090064167
+"Jamaica","gdp",6197.645405
+"Japan","gdp",17750.8699841667
+"Jordan","gdp",3128.12076166667
+"Kenya","gdp",1200.41571995
+"Korea, Dem. Rep.","gdp",2591.85257766667
+"Korea, Rep.","gdp",8217.31848508333
+"Kuwait","gdp",65332.9104716667
+"Lebanon","gdp",7269.21624125
+"Lesotho","gdp",780.553393191667
+"Liberia","gdp",604.814141233333
+"Libya","gdp",12013.57920125
+"Madagascar","gdp",1335.59502706667
+"Malawi","gdp",575.447211508333
+"Malaysia","gdp",5406.03819691667
+"Mali","gdp",673.093069416667
+"Mauritania","gdp",1356.67101066667
+"Mauritius","gdp",4768.94222125
+"Mexico","gdp",7724.11267458333
+"Mongolia","gdp",1692.80461225
+"Montenegro","gdp",7208.06455975
+"Morocco","gdp",2447.90886408333
+"Mozambique","gdp",542.278331991667
+"Myanmar","gdp",439.333333333333
+"Namibia","gdp",3675.58208683333
+"Nepal","gdp",782.728822083333
+"Netherlands","gdp",21748.8522081667
+"New Zealand","gdp",17262.6228125
+"Nicaragua","gdp",3424.6557695
+"Niger","gdp",781.076798108333
+"Nigeria","gdp",1488.30942916667
+"Norway","gdp",26747.3065541667
+"Oman","gdp",12138.5622273333
+"Pakistan","gdp",1439.27068905
+"Panama","gdp",5754.82717183333
+"Paraguay","gdp",3239.60679141667
+"Peru","gdp",5613.84408675
+"Philippines","gdp",2174.77113041667
+"Poland","gdp",8416.55391225
+"Portugal","gdp",11354.0919274167
+"Puerto Rico","gdp",10863.1643034167
+"Reunion","gdp",4898.39839008333
+"Romania","gdp",7300.16997358333
+"Rwanda","gdp",675.669043141667
+"Sao Tome and Principe","gdp",1382.782001175
+"Saudi Arabia","gdp",20261.7436350833
+"Senegal","gdp",1533.1216945
+"Serbia","gdp",9305.04944408333
+"Sierra Leone","gdp",1072.81949270833
+"Singapore","gdp",17425.3822666667
+"Slovak Republic","gdp",10415.530689
+"Slovenia","gdp",14074.5821093333
+"Somalia","gdp",1140.79325165833
+"South Africa","gdp",7247.43107441667
+"Spain","gdp",14029.82647875
+"Sri Lanka","gdp",1854.7311195
+"Sudan","gdp",1835.01042975
+"Swaziland","gdp",3163.35235825
+"Sweden","gdp",19943.126104
+"Switzerland","gdp",27074.334405
+"Syria","gdp",3009.28798066667
+"Taiwan","gdp",10224.80718075
+"Tanzania","gdp",849.281271091667
+"Thailand","gdp",3045.96647395833
+"Togo","gdp",1153.82011629167
+"Trinidad and Tobago","gdp",7866.87194641667
+"Tunisia","gdp",3477.21035075
+"Turkey","gdp",4469.45337966667
+"Uganda","gdp",810.383787908333
+"United Kingdom","gdp",19380.4729855833
+"United States","gdp",26261.1513466667
+"Uruguay","gdp",7100.13317566667
+"Venezuela","gdp",10088.5162515833
+"Vietnam","gdp",1017.71261516667
+"West Bank and Gaza","gdp",3759.99678125
+"Yemen, Rep.","gdp",1569.27467214167
+"Zambia","gdp",1358.199409
+"Zimbabwe","gdp",635.858042291667
